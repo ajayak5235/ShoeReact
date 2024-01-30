@@ -1,0 +1,1 @@
+export const crudUrl='https://crudcrud.com/api/533c9524dc1c41a885902cecdc10c152'
